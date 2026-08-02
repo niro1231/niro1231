@@ -14,37 +14,11 @@
 
 # 🛠️ Tech Stack
 
-
 <div align="center">
 
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c"/>
-
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
-
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,idea,vscode,postman"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c,react,nextjs,html,css,tailwind,bootstrap,spring,nodejs,express,postgres,mysql,mongodb,firebase,git,github,docker,aws,idea,vscode,postman" />
 
 </div>
-
 
 ---
 
