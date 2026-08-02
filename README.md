@@ -19,8 +19,6 @@
 
 🎓 Software Engineering Undergraduate at **UCSC**
 
-💻 Passionate about **Full Stack Development**
-
 📫 Reach me:
 
 **Pratheepanniroshan404@gmail.com**
