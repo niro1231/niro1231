@@ -25,11 +25,6 @@
 
 💻 Passionate about **Full Stack Development**
 
-🎯 Career Goal:
-
-- Become a professional Software Engineer
-
-
 📫 Reach me:
 
 **Pratheepanniroshan404@gmail.com**
