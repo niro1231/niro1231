@@ -12,27 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-🎓 Software Engineering Undergraduate at **UCSC**
-
-📫 Reach me:
-
-**Pratheepanniroshan404@gmail.com**
-
-
-⚡ Fun Fact:
-
-> Call me **Director** 😄
-
-
-<br clear="right"/>
-
----
-
 # 🛠️ Tech Stack
 
 
