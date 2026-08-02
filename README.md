@@ -71,22 +71,10 @@
 
 # 📊 GitHub Stats
 
-
 <div align="center">
 
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=niro1231&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niro1231&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=niro1231&theme=tokyonight&hide_border=true"/>
+<img width="55%" height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=niro1231&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,21 +89,21 @@
 
 <a href="https://linkedin.com/in/pratheepanniroshan">
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 
 </a>
 
 
 <a href="https://www.instagram.com/dir_niro31/">
 
-<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 
 </a>
 
 
 <a href="mailto:Pratheepanniroshan404@gmail.com">
 
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 
 </a>
 
